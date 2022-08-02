@@ -1,0 +1,10 @@
+D:\GIT\WindowSerivceDemo\WindowSerivceDemo\bin\Debug\WindowSerivceDemo.exe.config
+D:\GIT\WindowSerivceDemo\WindowSerivceDemo\bin\Debug\WindowSerivceDemo.exe
+D:\GIT\WindowSerivceDemo\WindowSerivceDemo\bin\Debug\WindowSerivceDemo.pdb
+D:\GIT\WindowSerivceDemo\WindowSerivceDemo\obj\Debug\WindowSerivceDemo.csproj.AssemblyReference.cache
+D:\GIT\WindowSerivceDemo\WindowSerivceDemo\obj\Debug\WindowSerivceDemo.csproj.SuggestedBindingRedirects.cache
+D:\GIT\WindowSerivceDemo\WindowSerivceDemo\obj\Debug\WindowSerivceDemo.ProjectInstaller.resources
+D:\GIT\WindowSerivceDemo\WindowSerivceDemo\obj\Debug\WindowSerivceDemo.csproj.GenerateResource.cache
+D:\GIT\WindowSerivceDemo\WindowSerivceDemo\obj\Debug\WindowSerivceDemo.csproj.CoreCompileInputs.cache
+D:\GIT\WindowSerivceDemo\WindowSerivceDemo\obj\Debug\WindowSerivceDemo.exe
+D:\GIT\WindowSerivceDemo\WindowSerivceDemo\obj\Debug\WindowSerivceDemo.pdb
