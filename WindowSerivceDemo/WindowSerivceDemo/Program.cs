@@ -12,6 +12,7 @@ namespace WindowSerivceDemo
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        // hàm main
         static void Main()
         {
             ServiceBase[] ServicesToRun;
